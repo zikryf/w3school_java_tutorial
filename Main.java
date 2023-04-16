@@ -7,6 +7,10 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
+        System.out.println("Me learning Java right now.");
+        
+        System.out.print("Now, what can I do with Java? ");
+        System.out.print("<-No new line-> Whoa what is it like this lol.");
     }
 }
 
