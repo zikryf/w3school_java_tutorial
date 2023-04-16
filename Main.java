@@ -9,8 +9,16 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Me learning Java right now.");
         
-        System.out.print("Now, what can I do with Java? ");
-        System.out.print("<-No new line-> Whoa what is it like this lol.");
+        System.out.print("Now, what can I do with Java? <-No new line-> ");
+        System.out.println("Whoa what is it like this lol.");
+
+        System.out.println();
+        System.out.println("Numbers & Arithmetics");
+        System.out.println(3);
+        System.out.println(726);
+        System.out.println(23843);
+        System.out.println(3 + 3);
+        System.out.println(2 * 5);
     }
 }
 
